@@ -1,2 +1,3 @@
-# ex-socialauth
-Social Authentication excercise Node JS
+**FreeCodeCamp**
+
+https://ex-socialauth.glitch.me/
